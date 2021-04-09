@@ -5,7 +5,7 @@
 [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/JeffVargasf/)
 
 
-Presente na área de tecnologia desde 2019 Presente na área de tecnologia desde 2019, sou apaixonado por tudo o que este campo proporcionou e proporcionará para a humanidade.
+Presente na área de tecnologia desde 2019, sou apaixonado por tudo o que este campo proporcionou e proporcionará para a humanidade.
 
 - 📚 <b>Em formação no SENAI Shunji Nishimura</b>
 - 📚 <b>Cursando Eletroeletrôncia</b>
