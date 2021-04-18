@@ -1,5 +1,5 @@
 #
-<h2 align="center">Muito prazer sou o Jefferson Vargas </h2>
+<h2 align="center">Muito prazer eu sou o Jefferson Vargas </h2>
 
 <img align="center" src=".\banner\Python.png">
 
@@ -7,7 +7,7 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jefferson-vargas-23454b205/)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:jeffersonvargas745@gmail.com)
-[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/JeffVargasf/)
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/jeffvargasz/)
 
 
 Presente na área de tecnologia desde 2019, sou apaixonado por tudo o que este campo proporcionou e proporcionará para a humanidade.
