@@ -19,5 +19,5 @@ Presente na área de tecnologia desde 2019, sou apaixonado por tudo o que este c
 <hr>
 
 <p align="center"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffeVargas&show_icons=true&layout=compact&theme=tokyonigh" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffeVargas&show_icons=true&layout=compact&theme=tokyonight" />
 </p>
