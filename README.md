@@ -15,9 +15,15 @@ Presente na área de tecnologia desde 2019, sou apaixonado por tudo o que este c
 - 📚 <b>Em formação no SENAI Shunji Nishimura</b>
 - 📚 <b>Cursando Eletroeletrôncia</b>
 - 🚀 <b>Python Developer | Criador da lua | Eterno aprendiz</b>
-
 <hr>
-
-<p align="center"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffeVargas&show_icons=true&layout=compact&theme=tokyonightt" />
-</p>
+<div>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=JeffeVargas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffeVargas&show_icons=true&layout=compact&theme=dracula" />
+<br>
+  <img align="center" alt="Jeff-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width:100%;">
+  <img align="center" alt="Jeff-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" style="max-width:100%;">
+  <img align="center" alt="Jeff-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width:100%;">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width:100%;">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width:100%;">
+</div>
+<hr>
