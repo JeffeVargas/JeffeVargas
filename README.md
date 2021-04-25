@@ -17,8 +17,8 @@ Presente na área de tecnologia desde 2019, sou apaixonado por tudo o que este c
 - 🚀 <b>Python Developer | Criador da lua | Eterno aprendiz</b>
 <hr>
 <div>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=JeffeVargas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"> 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffeVargas&show_icons=true&layout=compact&theme=dracula" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=JeffeVargas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffeVargas&show_icons=true&layout=compact&theme=tokyonight" />
 <br>
   <img align="center" alt="Jeff-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width:100%;">
   <img align="center" alt="Jeff-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" style="max-width:100%;">
